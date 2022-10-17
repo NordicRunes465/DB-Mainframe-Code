@@ -1,0 +1,7 @@
+Since the GUI mainframe doesn't like the stuff Isaiah sent and allowed for me to thread through to the mainframe, here's a list of that which Isaiah worked on.
+
+
+1. Variables.py
+2. Revised / edited the Background_shuffler.py
+3. the presets menu (The one threaded to the mainframe)
+4. gif presets (frame by frame)
